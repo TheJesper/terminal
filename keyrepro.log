@@ -1,0 +1,9 @@
+down: 0, ENHANCED_KEY: 0, ctrl: 0x20, vcod: 0x12, scod: 0x38
+down: 1, ENHANCED_KEY: 0, ctrl: 0x28, vcod: 0x11, scod: 0x1d
+down: 1, ENHANCED_KEY: 1, ctrl: 0x129, vcod: 0x12, scod: 0x38
+down: 0, ENHANCED_KEY: 0, ctrl: 0x21, vcod: 0x11, scod: 0x1d
+down: 0, ENHANCED_KEY: 1, ctrl: 0x120, vcod: 0x12, scod: 0x38
+down: 1, ENHANCED_KEY: 0, ctrl: 0x22, vcod: 0x12, scod: 0x38
+down: 0, ENHANCED_KEY: 0, ctrl: 0x20, vcod: 0x12, scod: 0x38
+down: 1, ENHANCED_KEY: 0, ctrl: 0x20, vcod: 0x1b, scod: 0x1
+down: 0, ENHANCED_KEY: 0, ctrl: 0x20, vcod: 0x1b, scod: 0x1
